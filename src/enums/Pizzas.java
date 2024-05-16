@@ -14,9 +14,7 @@ public enum Pizzas {
         this.price = price;
     }
 
-    public Integer getId() {
-        return id;
-    }
+
 
     public String getName() {
         return name;

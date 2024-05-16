@@ -1,7 +1,5 @@
 package model;
 
-import global.GlobalData;
-
 import java.util.ArrayList;
 import java.util.List;
 
